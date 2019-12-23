@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pre-commit = "*"
+flake8-import-order = "*"
+flake8-tidy-imports = "*"
+flake8-annotations = "*"
+
+[packages]
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+lint = "flake8"
+precommit = "pre-commit install"
+test = "python -m unittest"
