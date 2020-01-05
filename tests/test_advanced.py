@@ -1,4 +1,4 @@
-from tests.test_unit import TestRequirements
+from tests.unit import TestRequirements
 from datetime import datetime as dt
 
 
