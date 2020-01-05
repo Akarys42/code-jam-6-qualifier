@@ -1,5 +1,6 @@
-from tests.unit import TestRequirements
 from datetime import datetime as dt, timedelta as td, timezone as tz
+
+from tests.unit import TestRequirements
 
 
 class TestTimezoneRequirements(TestRequirements):
