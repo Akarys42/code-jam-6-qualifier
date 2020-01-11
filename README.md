@@ -1,4 +1,5 @@
 # Code Jam 6: Qualifier
+![banner](https://raw.githubusercontent.com/python-discord/branding/master/logos/logo_discord_banner/code%20jam%206.png) 
 My solution to the @python-discord Code Jam 6 qualifier. 
 
 ## Requirements
